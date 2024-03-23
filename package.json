@@ -1,0 +1,12 @@
+{
+  "name": "splitwise",
+  "version": "1.0.0",
+  "description": "Split Wise App ideal for spliting expense of household bills etc and even within friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
